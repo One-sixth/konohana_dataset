@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>Image_batch_01_00229.jpg</filename>
+	<path>D:\Users\TWD\Desktop\konohana_dataset\imgs\Image_batch_01_00229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>皋</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>602</ymin>
+			<xmax>978</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

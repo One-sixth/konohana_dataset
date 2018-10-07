@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kanohana_img</folder>
+	<filename>Image_batch_01_00155.jpg</filename>
+	<path>D:\Users\TWD\Desktop\kanohana_img\Image_batch_01_00155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>柚</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>378</ymin>
+			<xmax>1378</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>Image_batch_01_00493.jpg</filename>
+	<path>D:\Users\TWD\Desktop\konohana_dataset\imgs\Image_batch_01_00493.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>柚</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>372</ymin>
+			<xmax>1697</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+</annotation>
