@@ -1,6 +1,7 @@
 # konahana_dataset
 Personally produced target detection data set based on konohana cartoon character. undone. . .<br>
 Currently only the first to fifth episodes of animation are done.<br>
+now update to seventh episodes.
 
 image source:<br>
 ANK-Raws-このはな綺譚-Ranpo-Kitan：Game-of-Laplace-BDrip-1920x1080-HEVC-YUV420P10-FLAC.torrent<br>

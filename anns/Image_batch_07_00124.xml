@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Capture</folder>
+	<filename>Image_batch_07_00124.jpg</filename>
+	<path>D:\Pure Codec\x64\Capture\Image_batch_07_00124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>桐</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>167</ymin>
+			<xmax>1004</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>樱</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>341</ymin>
+			<xmax>1252</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

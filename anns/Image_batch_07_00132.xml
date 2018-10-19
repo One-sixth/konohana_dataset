@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Capture</folder>
+	<filename>Image_batch_07_00132.jpg</filename>
+	<path>D:\Pure Codec\x64\Capture\Image_batch_07_00132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>枣</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>72</ymin>
+			<xmax>734</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>莲</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>305</ymin>
+			<xmax>997</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+</annotation>

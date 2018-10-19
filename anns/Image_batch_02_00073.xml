@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Capture</folder>
+	<filename>Image_batch_02_00073.jpg</filename>
+	<path>D:\Pure Codec\x64\Capture\Image_batch_02_00073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>柚</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>468</ymin>
+			<xmax>724</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>八百比丘尼</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>927</xmin>
+			<ymin>81</ymin>
+			<xmax>1499</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

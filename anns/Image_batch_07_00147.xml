@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Capture</folder>
+	<filename>Image_batch_07_00147.jpg</filename>
+	<path>D:\Pure Codec\x64\Capture\Image_batch_07_00147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>阿菊</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>709</xmin>
+			<ymin>99</ymin>
+			<xmax>1182</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>
