@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kanohana_img</folder>
+	<folder>imgs</folder>
 	<filename>Image_batch_01_00073.jpg</filename>
-	<path>D:\Users\TWD\Desktop\kanohana_img\Image_batch_01_00073.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_01_00073.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>不计算</name>
+		<name>枣</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
