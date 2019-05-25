@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>img_ep11_c1_00162.jpg</filename>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\ep11\imgs\img_ep11_c1_00162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>莲</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>128</ymin>
+			<xmax>1223</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>imgs</folder>
 	<filename>Image_batch_01_00389.jpg</filename>
-	<path>D:\Users\TWD\Desktop\konohana_dataset\imgs\Image_batch_01_00389.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_01_00389.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -31,7 +31,7 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>91</ymin>
-			<xmax>821</xmax>
+			<xmax>767</xmax>
 			<ymax>1080</ymax>
 		</bndbox>
 	</object>

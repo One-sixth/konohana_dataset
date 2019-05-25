@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capture</folder>
+	<folder>imgs</folder>
 	<filename>Image_batch_07_00040.jpg</filename>
-	<path>D:\Pure Codec\x64\Capture\Image_batch_07_00040.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_07_00040.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,18 +53,6 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1272</xmin>
-			<ymin>1</ymin>
-			<xmax>1696</xmax>
-			<ymax>941</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>其他</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>1098</xmin>
 			<ymin>1</ymin>
 			<xmax>1315</xmax>
@@ -81,6 +69,18 @@
 			<ymin>1</ymin>
 			<xmax>1920</xmax>
 			<ymax>909</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>其他</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1263</xmin>
+			<ymin>1</ymin>
+			<xmax>1692</xmax>
+			<ymax>945</ymax>
 		</bndbox>
 	</object>
 </annotation>

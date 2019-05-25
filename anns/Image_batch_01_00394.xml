@@ -1,7 +1,7 @@
 <annotation>
 	<folder>imgs</folder>
 	<filename>Image_batch_01_00394.jpg</filename>
-	<path>D:\Users\TWD\Desktop\konohana_dataset\imgs\Image_batch_01_00394.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_01_00394.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>1</ymin>
 			<xmax>754</xmax>
 			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>樱</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1834</xmin>
+			<ymin>606</ymin>
+			<xmax>1920</xmax>
+			<ymax>841</ymax>
 		</bndbox>
 	</object>
 </annotation>

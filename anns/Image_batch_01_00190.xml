@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kanohana_img</folder>
+	<folder>imgs</folder>
 	<filename>Image_batch_01_00190.jpg</filename>
-	<path>D:\Users\TWD\Desktop\kanohana_img\Image_batch_01_00190.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_01_00190.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>933</xmin>
+			<xmin>935</xmin>
 			<ymin>319</ymin>
 			<xmax>1082</xmax>
-			<ymax>546</ymax>
+			<ymax>567</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>581</xmin>
 			<ymin>337</ymin>
-			<xmax>745</xmax>
-			<ymax>535</ymax>
+			<xmax>746</xmax>
+			<ymax>553</ymax>
 		</bndbox>
 	</object>
 </annotation>

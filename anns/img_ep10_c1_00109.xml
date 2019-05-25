@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>img_ep10_c1_00109.jpg</filename>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\ep10\imgs\img_ep10_c1_00109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>菖</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1665</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>img_ep8_c1_00036.jpg</filename>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\ep8\imgs\img_ep8_c1_00036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>柚</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1683</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

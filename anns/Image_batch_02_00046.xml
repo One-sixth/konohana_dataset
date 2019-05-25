@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capture</folder>
+	<folder>imgs</folder>
 	<filename>Image_batch_02_00046.jpg</filename>
-	<path>D:\Pure Codec\x64\Capture\Image_batch_02_00046.jpg</path>
+	<path>D:\DeepLearningProject\datasets\konohana_dataset\imgs\Image_batch_02_00046.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -44,18 +44,6 @@
 			<xmin>767</xmin>
 			<ymin>120</ymin>
 			<xmax>1184</xmax>
-			<ymax>1080</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>皋</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>697</xmin>
-			<ymin>336</ymin>
-			<xmax>1145</xmax>
 			<ymax>1080</ymax>
 		</bndbox>
 	</object>
